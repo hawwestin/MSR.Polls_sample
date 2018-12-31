@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Pycharm
+src/.idea/workspace.xml
+src/.idea/tasks.xml
+src/.idea/usage.statistics.xml
+
+
