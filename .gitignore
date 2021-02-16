@@ -109,3 +109,5 @@ src/.idea/tasks.xml
 src/.idea/usage.statistics.xml
 
 
+sonarscanner.bat
+.scannerwork/
